@@ -35,3 +35,5 @@ javac Program.java
 `
 
 For compile, do you need the tool javac from JDK (Java Development Kit).
+
+#Java #BMI #QuadricEquations
